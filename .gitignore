@@ -1,0 +1,9 @@
+# IDE
+.idea
+
+# CMake build directories
+cmake-build-debug
+cmake-build-release
+
+# Doxygen output directory
+build
