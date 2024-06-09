@@ -1,5 +1,9 @@
 # Doxygen CI/CD pipeline for GitHub Pages
 
+![GitHub Tag](https://img.shields.io/github/v/tag/markhj/doxygen-cicd-example?label=version)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/markhj/doxygen-cicd-example/doxygen.yml)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?label=license)
+
 This example demonstrates how to:
 
 - Build the Doxygen documentation in the cloud (GitHub Actions).
@@ -94,3 +98,8 @@ will be accessible from:
 ````bash
 https://<username>.github.io/<repo>
 ````
+
+## Example
+
+Example documentation is hosted at:
+https://markhj.github.io/doxygen-cicd-example/
